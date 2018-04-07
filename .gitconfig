@@ -1,0 +1,7 @@
+[user]
+	name = Alex Smith
+	email = alex.smith@weebly.com
+[core]
+	editor = vim
+[diff "sopsdiffer"]
+	textconv = sops -d
